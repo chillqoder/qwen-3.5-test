@@ -1,0 +1,3391 @@
+[
+  {
+    "id": "movie_001",
+    "title": "Паразиты",
+    "original_title": "Parasite",
+    "year": 2019,
+    "description": "Бедная семья обманом проникает в богатый дом, выдавая себя за квалифицированных специалистов. Но их хитроумный план начинает рушиться, когда всплывают тёмные секреты.",
+    "genres": [
+      "drama",
+      "thriller"
+    ],
+    "moods": [
+      "tense",
+      "dark"
+    ],
+    "rating": 8.5,
+    "duration": 132,
+    "director": "Пон Джун-хо",
+    "cast": [
+      "Сон Кан-хо",
+      "Ли Сон-гюн",
+      "Чо Ё-джон",
+      "Чхве У-шик"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/ApiBzeaa95TNYliSbQ8pJv4Fje7.jpg",
+    "language": "ru",
+    "tags": [
+      "оскар",
+      "корейское кино",
+      "триллер"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 496243,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_002",
+    "title": "Оппенгеймер",
+    "original_title": "Oppenheimer",
+    "year": 2023,
+    "description": "История жизни американского физика Роберта Оппенгеймера, который сыграл ключевую роль в создании атомной бомбы во время Второй мировой войны.",
+    "genres": [
+      "drama",
+      "history",
+      "biography"
+    ],
+    "moods": [
+      "intense",
+      "thought-provoking"
+    ],
+    "rating": 8.4,
+    "duration": 180,
+    "director": "Кристофер Нолан",
+    "cast": [
+      "Киллиан Мёрфи",
+      "Эмили Блант",
+      "Мэтт Дэймон",
+      "Роберт Дауни мл."
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+    "language": "ru",
+    "tags": [
+      "биография",
+      "история",
+      "нолан"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 872585,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_003",
+    "title": "Человек-паук: Нет пути домой",
+    "original_title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "description": "Питер Паркер обращается к Доктору Стрэнджу за помощью, чтобы мир забыл о его личности Человека-паука. Но заклинание идёт не так, и в нашей реальности появляются злодеи из других вселенных.",
+    "genres": [
+      "action",
+      "adventure",
+      "sci-fi"
+    ],
+    "moods": [
+      "exciting",
+      "adventurous"
+    ],
+    "rating": 8.2,
+    "duration": 148,
+    "director": "Джон Уоттс",
+    "cast": [
+      "Том Холланд",
+      "Зендея",
+      "Бенедикт Камбербэтч",
+      "Джейкоб Баталон"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/14QbnygCuTV0kd9G0E89TQsHdRb.jpg",
+    "language": "ru",
+    "tags": [
+      "марвел",
+      "супергерои",
+      "мультивселенная"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 634649,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_004",
+    "title": "Топ Ган: Мэверик",
+    "original_title": "Top Gun: Maverick",
+    "year": 2022,
+    "description": "Пит Митчелл возвращается в школу Топ Ган, чтобы подготовить группу выпускников для выполнения опасной миссии. Ему предстоит столкнуться с прошлым и доказать, что он всё ещё лучший.",
+    "genres": [
+      "action",
+      "drama"
+    ],
+    "moods": [
+      "thrilling",
+      "inspiring"
+    ],
+    "rating": 8.3,
+    "duration": 130,
+    "director": "Джозеф Косински",
+    "cast": [
+      "Том Круз",
+      "Майлз Теллер",
+      "Дженнифер Коннелли",
+      "Вэл Килмер"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/odJ4hx6g6vBt4lBWKFD1tI8WS4x.jpg",
+    "language": "ru",
+    "tags": [
+      "авиация",
+      "сиквел",
+      "том круз"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 361743,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_005",
+    "title": "Дюна",
+    "original_title": "Dune",
+    "year": 2021,
+    "description": "Пол Атрейдес отправляется на опасную планету Арракис, чтобы обеспечить будущее своей семьи и народа. Ему предстоит противостоять силам, стремящимся контролировать единственное месторождение ценнейшего ресурса во вселенной.",
+    "genres": [
+      "sci-fi",
+      "adventure",
+      "drama"
+    ],
+    "moods": [
+      "epic",
+      "mysterious"
+    ],
+    "rating": 8,
+    "duration": 155,
+    "director": "Дени Вильнёв",
+    "cast": [
+      "Тимоти Шаламе",
+      "Ребекка Фергюсон",
+      "Оскар Айзек",
+      "Зендея"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xvzjZM4mXWv0RdF2Y6RzYpCnFJd.jpg",
+    "language": "ru",
+    "tags": [
+      "фантастика",
+      "эпос",
+      "вилнёв"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 438631,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_006",
+    "title": "Дюна: Часть вторая",
+    "original_title": "Dune: Part Two",
+    "year": 2024,
+    "description": "Пол Атрейдес объединяется с фрименами, чтобы отомстить заговорщикам, уничтожившим его семью. Он должен выбрать между любовью и судьбой вселенной.",
+    "genres": [
+      "sci-fi",
+      "adventure",
+      "drama"
+    ],
+    "moods": [
+      "epic",
+      "intense"
+    ],
+    "rating": 8.6,
+    "duration": 166,
+    "director": "Дени Вильнёв",
+    "cast": [
+      "Тимоти Шаламе",
+      "Зендея",
+      "Ребекка Фергюсон",
+      "Остин Батлер"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+    "language": "ru",
+    "tags": [
+      "фантастика",
+      "сиквел",
+      "эпос"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 693134,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_007",
+    "title": "Всё везде и сразу",
+    "original_title": "Everything Everywhere All at Once",
+    "year": 2022,
+    "description": "Китайско-американская иммигрантка втянута в безумное приключение, где только она может спасти мир, исследуя другие вселенные, которые могли бы сложиться из жизней, которые она могла бы прожить.",
+    "genres": [
+      "action",
+      "adventure",
+      "comedy",
+      "sci-fi"
+    ],
+    "moods": [
+      "funny",
+      "mind-bending"
+    ],
+    "rating": 8.1,
+    "duration": 139,
+    "director": "Дэниел Кван, Дэниел Шайнерт",
+    "cast": [
+      "Мишель Йео",
+      "Ке Хюи Куан",
+      "Джейми Ли Кёртис",
+      "Стефани Сюй"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1oKA54eKl.jpg",
+    "language": "ru",
+    "tags": [
+      "мультивселенная",
+      "оскар",
+      "комедия"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 545611,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_008",
+    "title": "Аватар: Путь воды",
+    "original_title": "Avatar: The Way of Water",
+    "year": 2022,
+    "description": "Джейк Салли живёт со своей новой семьёй на планете Пандора. Когда знакомая угроза возвращается, чтобы закончить то, что было начато ранее, Джейк должен работать с Нейтири и армией расы На'ви, чтобы защитить свою планету.",
+    "genres": [
+      "sci-fi",
+      "adventure",
+      "action"
+    ],
+    "moods": [
+      "epic",
+      "visual"
+    ],
+    "rating": 7.6,
+    "duration": 192,
+    "director": "Джеймс Кэмерон",
+    "cast": [
+      "Сэм Уортингтон",
+      "Зои Салдана",
+      "Сигурни Уивер",
+      "Кейт Уинслет"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/s16H6tpK2utvwDtzZ8Qy4qm5Emw.jpg",
+    "language": "ru",
+    "tags": [
+      "фантастика",
+      "сиквел",
+      "кэмерон"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 76600,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_009",
+    "title": "Мстители: Финал",
+    "original_title": "Avengers: Endgame",
+    "year": 2019,
+    "description": "После разрушительных событий фильма «Война бесконечности» вселенная находится в руинах. Оставшиеся члены Мстителей должны собраться вместе, чтобы отменить действия Таноса и восстановить баланс.",
+    "genres": [
+      "action",
+      "adventure",
+      "sci-fi"
+    ],
+    "moods": [
+      "epic",
+      "emotional"
+    ],
+    "rating": 8.4,
+    "duration": 181,
+    "director": "Энтони Руссо, Джо Руссо",
+    "cast": [
+      "Роберт Дауни мл.",
+      "Крис Эванс",
+      "Марк Руффало",
+      "Крис Хемсворт"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+    "language": "ru",
+    "tags": [
+      "марвел",
+      "супергерои",
+      "финал"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 299534,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_010",
+    "title": "Джокер",
+    "original_title": "Joker",
+    "year": 2019,
+    "description": "Готэм, начало 1980-х годов. Комик Артур Флек живёт с больной матерью, которая с детства учит его «ходить с улыбкой». Пытаясь нести в мир радость и добро, Артур попадает в череду трагических событий.",
+    "genres": [
+      "drama",
+      "thriller",
+      "crime"
+    ],
+    "moods": [
+      "dark",
+      "intense"
+    ],
+    "rating": 8.4,
+    "duration": 122,
+    "director": "Тодд Филлипс",
+    "cast": [
+      "Хоакин Феникс",
+      "Роберт Де Ниро",
+      "Зазии Битц",
+      "Фрэнсис Конрой"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/n6bUvicpS3kdt2p8lF8xPvQvCZb.jpg",
+    "language": "ru",
+    "tags": [
+      "dc",
+      "злодей",
+      "оскар"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 475557,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_014",
+    "title": "Джон Уик 3",
+    "original_title": "John Wick: Chapter 3 - Parabellum",
+    "year": 2019,
+    "description": "Джон Уик объявлен в розыск за убийство на территории отеля «Континенталь». С назначенной на его голову наградой в 14 миллионов долларов, он должен выжить в схватке с самыми опасными убийцами мира.",
+    "genres": [
+      "action",
+      "thriller",
+      "crime"
+    ],
+    "moods": [
+      "intense",
+      "exciting"
+    ],
+    "rating": 7.4,
+    "duration": 130,
+    "director": "Чад Стахелски",
+    "cast": [
+      "Киану Ривз",
+      "Холли Берри",
+      "Иэн Макшейн",
+      "Лоренс Фишберн"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/vVpEOvdxVBP2aV166j5Xlvb5Cdc.jpg",
+    "language": "ru",
+    "tags": [
+      "боевик",
+      "киану ривз",
+      "месть"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 458156,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_015",
+    "title": "Ирландец",
+    "original_title": "The Irishman",
+    "year": 2019,
+    "description": "История о Фрэнке Ширане, наёмном убийце, который работал на мафиозного босса Рассела Буфалино и был причастен к исчезновению лидера профсоюза Джимми Хоффы.",
+    "genres": [
+      "crime",
+      "drama",
+      "history"
+    ],
+    "moods": [
+      "dark",
+      "reflective"
+    ],
+    "rating": 7.8,
+    "duration": 209,
+    "director": "Мартин Скорсезе",
+    "cast": [
+      "Роберт Де Ниро",
+      "Аль Пачино",
+      "Джо Пеши",
+      "Харви Кейтель"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/6GhN1jT3VQhXJZ8VjGhN1jT3VQh.jpg",
+    "language": "ru",
+    "tags": [
+      "мафия",
+      "скорсезе",
+      "биография"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 398978,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_016",
+    "title": "Маленькие женщины",
+    "original_title": "Little Women",
+    "year": 2019,
+    "description": "Четыре сестры Марч растут в Новой Англии времён Гражданской войны в США. Каждая из них идёт своим путём, сталкиваясь с трудностями взросления, любви и поиска своего места в мире.",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "moods": [
+      "heartwarming",
+      "emotional"
+    ],
+    "rating": 7.8,
+    "duration": 135,
+    "director": "Грета Гервиг",
+    "cast": [
+      "Сирша Ронан",
+      "Эмма Уотсон",
+      "Флоренс Пью",
+      "Тимоти Шаламе"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/3uTxPIdVEXxHpsHOHdJC24QebBV.jpg",
+    "language": "ru",
+    "tags": [
+      "классика",
+      "семья",
+      "гервиг"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 331482,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_017",
+    "title": "Холодное сердце 2",
+    "original_title": "Frozen II",
+    "year": 2019,
+    "description": "Эльза слышит таинственный голос, зовущий её из прошлого. Вместе с Анной, Кристоффом, Олафом и Свеном она отправляется в опасное путешествие, чтобы раскрыть тайну своего прошлого и спасти королевство.",
+    "genres": [
+      "animation",
+      "adventure",
+      "family"
+    ],
+    "moods": [
+      "magical",
+      "heartwarming"
+    ],
+    "rating": 7.3,
+    "duration": 103,
+    "director": "Крис Бак, Дженнифер Ли",
+    "cast": [
+      "Идина Мензел",
+      "Кристен Белл",
+      "Джонатан Грофф",
+      "Джош Гад"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xJWPZIYOEFIjZpBL7SVBGnzRYXp.jpg",
+    "language": "ru",
+    "tags": [
+      "дисней",
+      "анимация",
+      "семейный"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 330457,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_018",
+    "title": "История игрушек 4",
+    "original_title": "Toy Story 4",
+    "year": 2019,
+    "description": "Вуди, Базз и остальные игрушки теперь принадлежат Бонни. Когда Бонни создаёт новую игрушку по имени Вилкинс, Вуди отправляется в приключение, которое покажет ему, насколько большим может быть мир для игрушки.",
+    "genres": [
+      "animation",
+      "adventure",
+      "family",
+      "comedy"
+    ],
+    "moods": [
+      "funny",
+      "heartwarming"
+    ],
+    "rating": 7.7,
+    "duration": 100,
+    "director": "Джош Кули",
+    "cast": [
+      "Том Хэнкс",
+      "Тим Аллен",
+      "Ани Потер",
+      "Тони Хейл"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/m67smI1IIMmYzCl9axvKNULVKLr.jpg",
+    "language": "ru",
+    "tags": [
+      "пиксар",
+      "анимация",
+      "дисней"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 301528,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_019",
+    "title": "Король Лев",
+    "original_title": "The Lion King",
+    "year": 2019,
+    "description": "После гибели отца юный львёнок Симба изгоняется из королевства. Ему предстоит повзрослеть и вернуть себе rightful место вождя прайда, победив своего дядю Шрама.",
+    "genres": [
+      "animation",
+      "adventure",
+      "drama",
+      "family"
+    ],
+    "moods": [
+      "epic",
+      "emotional"
+    ],
+    "rating": 7.1,
+    "duration": 118,
+    "director": "Джон Фавро",
+    "cast": [
+      "Дональд Гловер",
+      "Бейонсе",
+      "Джеймс Эрл Джонс",
+      "Чиветел Эджиофор"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/1TUg5pO1VZ4B0Q1amk3OlXvlpXV.jpg",
+    "language": "ru",
+    "tags": [
+      "дисней",
+      "ремейк",
+      "анимация"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 420818,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_020",
+    "title": "Мстители: Война бесконечности",
+    "original_title": "Avengers: Infinity War",
+    "year": 2018,
+    "description": "Мстители и их союзники должны быть готовы пожертвовать всем, чтобы противостоять могущественному Таносу, чья атака угрожает уничтожить половину всей жизни во вселенной.",
+    "genres": [
+      "action",
+      "adventure",
+      "sci-fi"
+    ],
+    "moods": [
+      "epic",
+      "intense"
+    ],
+    "rating": 8.3,
+    "duration": 149,
+    "director": "Энтони Руссо, Джо Руссо",
+    "cast": [
+      "Роберт Дауни мл.",
+      "Крис Хемсворт",
+      "Марк Руффало",
+      "Крис Эванс"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/lmZFxXgJE3vgrciwuDib0N8CfQo.jpg",
+    "language": "ru",
+    "tags": [
+      "марвел",
+      "супергерои",
+      "танос"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 299536,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_021",
+    "title": "Тихое место",
+    "original_title": "A Quiet Place",
+    "year": 2018,
+    "description": "В мире, где слепые существа с невероятным слухом охотятся на людей, семья выживает в полной тишине. Любой звук может стать последним.",
+    "genres": [
+      "horror",
+      "thriller",
+      "drama"
+    ],
+    "moods": [
+      "tense",
+      "scary"
+    ],
+    "rating": 7.5,
+    "duration": 90,
+    "director": "Джон Красински",
+    "cast": [
+      "Эмили Блант",
+      "Джон Красински",
+      "Милиссент Симмондс",
+      "Ноа Джуп"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/roYyPiQDQKmIKUEhO912693tSja.jpg",
+    "language": "ru",
+    "tags": [
+      "ужасы",
+      "тишина",
+      "выживание"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 447332,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_023",
+    "title": "Реинкарнация",
+    "original_title": "Midsommar",
+    "year": 2019,
+    "description": "Группа друзей отправляется в шведскую деревню на фестиваль середины лета. То, что начинается как беззаботное путешествие, превращается в кошмар, когда местные жители раскрывают свои зловещие ритуалы.",
+    "genres": [
+      "horror",
+      "drama",
+      "mystery"
+    ],
+    "moods": [
+      "disturbing",
+      "unsettling"
+    ],
+    "rating": 7.1,
+    "duration": 148,
+    "director": "Ари Астер",
+    "cast": [
+      "Флоренс Пью",
+      "Джек Рейнор",
+      "Вильгельм Бломгрен",
+      "Уилл Поултер"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1oKA54eKl.jpg",
+    "language": "ru",
+    "tags": [
+      "ужасы",
+      "фестиваль",
+      "швеция"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 530385,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_024",
+    "title": "Мы",
+    "original_title": "Us",
+    "year": 2019,
+    "description": "Семья сталкивается со своими зловещими двойниками во время отпуска. Эти люди выглядят как они, но их намерения смертельно опасны.",
+    "genres": [
+      "horror",
+      "thriller",
+      "mystery"
+    ],
+    "moods": [
+      "scary",
+      "tense"
+    ],
+    "rating": 6.8,
+    "duration": 116,
+    "director": "Джордан Пил",
+    "cast": [
+      "Лупита Нионго",
+      "Уинстон Дьюк",
+      "Элизабет Мосс",
+      "Тим Хайдекер"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/h3KN24PrOheHVYs9ypuOIdFQBPX.jpg",
+    "language": "ru",
+    "tags": [
+      "ужасы",
+      "двойники",
+      "пил"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 450465,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_025",
+    "title": "Прочь",
+    "original_title": "Get Out",
+    "year": 2017,
+    "description": "Молодой афроамериканец знакомится с родителями своей белой девушки. Изначально он воспринимает их излишнюю любезность как нервозность из-за расовых различий, но вскоре понимает, что за этим скрывается нечто зловещее.",
+    "genres": [
+      "horror",
+      "thriller",
+      "mystery"
+    ],
+    "moods": [
+      "tense",
+      "thought-provoking"
+    ],
+    "rating": 7.7,
+    "duration": 104,
+    "director": "Джордан Пил",
+    "cast": [
+      "Дэниел Калуя",
+      "Эллисон Уильямс",
+      "Брэдли Уитфорд",
+      "Кэтрин Кинер"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rqAHkvAU268uZVdpRq6D0vRPaPB.jpg",
+    "language": "ru",
+    "tags": [
+      "ужасы",
+      "расизм",
+      "оскар"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 419430,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_026",
+    "title": "Зелёная книга",
+    "original_title": "Green Book",
+    "year": 2018,
+    "description": "История дружбы между утончённым афроамериканским пианистом и его водителем-итальянцем во время тура по югу США в 1960-х годах.",
+    "genres": [
+      "drama",
+      "comedy",
+      "biography"
+    ],
+    "moods": [
+      "heartwarming",
+      "inspiring"
+    ],
+    "rating": 8.2,
+    "duration": 130,
+    "director": "Питер Фаррелли",
+    "cast": [
+      "Вигго Мортенсен",
+      "Махершала Али",
+      "Линда Карделлини",
+      "Себастьян Манискалко"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/78PjwaykLY2QqhMfWRDvmfbC6EV.jpg",
+    "language": "ru",
+    "tags": [
+      "оскар",
+      "дружба",
+      "биография"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 490132,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_027",
+    "title": "Богемская рапсодия",
+    "original_title": "Bohemian Rhapsody",
+    "year": 2018,
+    "description": "История легендарной британской рок-группы Queen и её фронтмена Фредди Меркьюри, который бросил вызов стереотипам и стал одним из величайших артистов в истории музыки.",
+    "genres": [
+      "drama",
+      "music",
+      "biography"
+    ],
+    "moods": [
+      "inspiring",
+      "emotional"
+    ],
+    "rating": 8,
+    "duration": 134,
+    "director": "Брайан Сингер",
+    "cast": [
+      "Рами Малек",
+      "Люси Бойнтон",
+      "Гвилим Ли",
+      "Бен Харди"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/93xA62uLd5CwMOAs37eQ7vPc1iV.jpg",
+    "language": "ru",
+    "tags": [
+      "queen",
+      "меркьюри",
+      "музыка"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 424694,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_029",
+    "title": "Звезда родилась",
+    "original_title": "A Star Is Born",
+    "year": 2018,
+    "description": "Опытный музыкант открывает молодую талантливую певицу. Между ними возникает роман, но его борьба с зависимостями угрожает их отношениям и её карьере.",
+    "genres": [
+      "drama",
+      "romance",
+      "music"
+    ],
+    "moods": [
+      "emotional",
+      "romantic"
+    ],
+    "rating": 7.6,
+    "duration": 136,
+    "director": "Брэдли Купер",
+    "cast": [
+      "Леди Гага",
+      "Брэдли Купер",
+      "Сэм Эллиотт",
+      "Эндрю Дайс Клей"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/840NlP0M5fHlXfJlXfJlXfJlXfJ.jpg",
+    "language": "ru",
+    "tags": [
+      "музыка",
+      "романтика",
+      "гага"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 332562,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_030",
+    "title": "Чёрная пантера",
+    "original_title": "Black Panther",
+    "year": 2018,
+    "description": "После смерти отца Т'Чалла возвращается в Ваканду, чтобы занять трон. Но когда появляется старый враг, молодой король должен объединиться с союзниками, чтобы защитить свой народ и весь мир.",
+    "genres": [
+      "action",
+      "adventure",
+      "sci-fi"
+    ],
+    "moods": [
+      "epic",
+      "inspiring"
+    ],
+    "rating": 7.3,
+    "duration": 134,
+    "director": "Райан Куглер",
+    "cast": [
+      "Чедвик Боузман",
+      "Майкл Б. Джордан",
+      "Лупита Нионго",
+      "Данай Гурира"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+    "language": "ru",
+    "tags": [
+      "марвел",
+      "wakanda",
+      "супергерои"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 284054,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_031",
+    "title": "Тихоокеанский рубеж 2",
+    "original_title": "Pacific Rim: Uprising",
+    "year": 2018,
+    "description": "Мир наслаждается хрупким миром после войны с кайдзю. Но новые угрозы возникают, и новое поколение пилотов должно подняться, чтобы защитить человечество.",
+    "genres": [
+      "action",
+      "sci-fi",
+      "adventure"
+    ],
+    "moods": [
+      "exciting",
+      "epic"
+    ],
+    "rating": 5.6,
+    "duration": 111,
+    "director": "Стивен С. ДеНайт",
+    "cast": [
+      "Джон Бойега",
+      "Скотт Иствуд",
+      "Кэйли Спэни",
+      "Цзин Тянь"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/7Z7WVzJsSReG8B0CaPk0bvWD7tK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+    "language": "ru",
+    "tags": [
+      "роботы",
+      "монстры",
+      "сиквел"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 280217,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_032",
+    "title": "Первому игроку приготовиться",
+    "original_title": "Ready Player One",
+    "year": 2018,
+    "description": "В 2045 году человечество находит спасение в виртуальной реальности OASIS. Когда создатель OASIS умирает, он оставляет после себя серию заданий, победитель которых получит контроль над всей системой.",
+    "genres": [
+      "sci-fi",
+      "adventure",
+      "action"
+    ],
+    "moods": [
+      "exciting",
+      "nostalgic"
+    ],
+    "rating": 7.4,
+    "duration": 140,
+    "director": "Стивен Спилберг",
+    "cast": [
+      "Тай Шеридан",
+      "Оливия Кук",
+      "Бен Мендельсон",
+      "Марк Райлэнс"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/q7fXcrDPJcf6t3rzutaNwTzuKP1.jpg",
+    "language": "ru",
+    "tags": [
+      "виртуальная реальность",
+      "спилберг",
+      "игры"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 333339,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_033",
+    "title": "Мир юрского периода 2",
+    "original_title": "Jurassic World: Fallen Kingdom",
+    "year": 2018,
+    "description": "Когда вулкан на острове Нублар начинает извергаться, Оуэн и Клэр возвращаются, чтобы спасти оставшихся динозавров. Но они обнаруживают заговор, который может привести к новой эре динозавров на Земле.",
+    "genres": [
+      "action",
+      "adventure",
+      "sci-fi"
+    ],
+    "moods": [
+      "exciting",
+      "thrilling"
+    ],
+    "rating": 6.2,
+    "duration": 128,
+    "director": "Хуан Антонио Байона",
+    "cast": [
+      "Крис Пратт",
+      "Брайс Даллас Ховард",
+      "Джефф Голдблюм",
+      "Тоби Джонс"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/c9XxwwhPHdaImA2f1WEfEvSBhaW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/3s9O5af2xWKWR5JzP2iJZpZeQQg.jpg",
+    "language": "ru",
+    "tags": [
+      "динозавры",
+      "сиквел",
+      "приключения"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 351286,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_035",
+    "title": "Дэдпул 2",
+    "original_title": "Deadpool 2",
+    "year": 2018,
+    "description": "Дэдпул формирует команду супергероев для защиты молодого мутанта от путешествующего во времени солдата Кейбла. Но его методы далеки от традиционных.",
+    "genres": [
+      "action",
+      "comedy",
+      "adventure"
+    ],
+    "moods": [
+      "funny",
+      "irreverent"
+    ],
+    "rating": 7.5,
+    "duration": 119,
+    "director": "Дэвид Литч",
+    "cast": [
+      "Райан Рейнольдс",
+      "Джош Бролин",
+      "Морена Баккарин",
+      "Джулиан Деннисон"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+    "language": "ru",
+    "tags": [
+      "марвел",
+      "комедия",
+      "супергерои"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 383498,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_036",
+    "title": "Веном",
+    "original_title": "Venom",
+    "year": 2018,
+    "description": "Журналист Эдди Брок становится носителем инопланетного симбиота Венома. Вместе они должны остановить другого симбиота, угрожающего городу.",
+    "genres": [
+      "action",
+      "sci-fi",
+      "thriller"
+    ],
+    "moods": [
+      "dark",
+      "exciting"
+    ],
+    "rating": 6.7,
+    "duration": 112,
+    "director": "Рубен Флейшер",
+    "cast": [
+      "Том Харди",
+      "Мишель Уильямс",
+      "Риз Ахмед",
+      "Скотт Хейз"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+    "language": "ru",
+    "tags": [
+      "марвел",
+      "симбиот",
+      "антигерой"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 335983,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_037",
+    "title": "Аквамен",
+    "original_title": "Aquaman",
+    "year": 2018,
+    "description": "Артур Карри, наполовину человек, наполовину атлант, должен принять свою судьбу и стать королём подводного царства, чтобы предотвратить войну между поверхностью и океаном.",
+    "genres": [
+      "action",
+      "adventure",
+      "fantasy"
+    ],
+    "moods": [
+      "epic",
+      "adventurous"
+    ],
+    "rating": 6.9,
+    "duration": 143,
+    "director": "Джеймс Ван",
+    "cast": [
+      "Джейсон Момоа",
+      "Эмбер Хёрд",
+      "Уиллем Дефо",
+      "Патрик Уилсон"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/5Kg76ldv7VxeX9YlcQXiowHgdX6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/7icgF1dgQxNBqTcRvXlYR2UyMg.jpg",
+    "language": "ru",
+    "tags": [
+      "dc",
+      "подводный мир",
+      "супергерои"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 297802,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_038",
+    "title": "Хан Соло: Звёздные войны. Истории",
+    "original_title": "Solo: A Star Wars Story",
+    "year": 2018,
+    "description": "История молодого Хана Соло, который отправляется в опасное приключение, чтобы стать лучшим пилотом в галактике и встретить своего будущего партнёра Чубакку.",
+    "genres": [
+      "action",
+      "adventure",
+      "sci-fi"
+    ],
+    "moods": [
+      "adventurous",
+      "fun"
+    ],
+    "rating": 6.6,
+    "duration": 135,
+    "director": "Рон Ховард",
+    "cast": [
+      "Олден Эйренрайх",
+      "Вуди Харрельсон",
+      "Эмилия Кларк",
+      "Дональд Гловер"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/96B1qMN9RxrAFu6uikwFhQ3Wj3.jpg",
+    "language": "ru",
+    "tags": [
+      "звёздные войны",
+      "приквел",
+      "космос"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 348350,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_039",
+    "title": "Тихое место 2",
+    "original_title": "A Quiet Place Part II",
+    "year": 2020,
+    "description": "Семья продолжает бороться за выживание в мире, где любые звуки могут привлечь смертоносных существ. Они должны найти безопасное место и раскрыть тайну этих созданий.",
+    "genres": [
+      "horror",
+      "thriller",
+      "sci-fi"
+    ],
+    "moods": [
+      "tense",
+      "scary"
+    ],
+    "rating": 7.3,
+    "duration": 97,
+    "director": "Джон Красински",
+    "cast": [
+      "Эмили Блант",
+      "Киллиан Мёрфи",
+      "Милиссент Симмондс",
+      "Ноа Джуп"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/z2UtGA1WFFfQdt35VqZ4G9e7K8.jpg",
+    "language": "ru",
+    "tags": [
+      "ужасы",
+      "тишина",
+      "сиквел"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 521777,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_041",
+    "title": "Душа",
+    "original_title": "Soul",
+    "year": 2020,
+    "description": "Школьный учитель музыки Джо Гарднер получает шанс сыграть в лучшем джаз-клубе Нью-Йорка. Но небольшая ошибка отправляет его душу в место, где формируются человеческие личности.",
+    "genres": [
+      "animation",
+      "adventure",
+      "comedy",
+      "drama"
+    ],
+    "moods": [
+      "thought-provoking",
+      "heartwarming"
+    ],
+    "rating": 8.1,
+    "duration": 100,
+    "director": "Пит Доктер",
+    "cast": [
+      "Джейми Фокс",
+      "Тина Фей",
+      "Грэм Нортон",
+      "Рэйчел Хаус"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/kf456ZqeC45XTvo6W9pW5clYKfQ.jpg",
+    "language": "ru",
+    "tags": [
+      "пиксар",
+      "анимация",
+      "философия"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 508442,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_043",
+    "title": "Девушка, подающая надежды",
+    "original_title": "Promising Young Woman",
+    "year": 2020,
+    "description": "Молодая женщина живёт двойной жизнью: днём она работает в кофейне, а ночью охотится на мужчин, которые пользуются пьяными женщинами. Её цель — месть за трагедию, случившуюся с её лучшей подругой.",
+    "genres": [
+      "thriller",
+      "drama",
+      "crime"
+    ],
+    "moods": [
+      "dark",
+      "intense"
+    ],
+    "rating": 7.2,
+    "duration": 113,
+    "director": "Эмиральд Феннел",
+    "cast": [
+      "Кэри Маллиган",
+      "Бояна Новакович",
+      "Эллисон Бри",
+      "Клэнси Браун"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/6hgItrYQEG33y0I7yP2SRl2ei4w.jpg",
+    "language": "ru",
+    "tags": [
+      "месть",
+      "триллер",
+      "оскар"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 582014,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_045",
+    "title": "Земля кочевников",
+    "original_title": "Nomadland",
+    "year": 2020,
+    "description": "После экономического краха женщина в возрасте за шестьдесят отправляется в путешествие по американскому Западу, живя в фургоне и работая на сезонных работах.",
+    "genres": [
+      "drama"
+    ],
+    "moods": [
+      "reflective",
+      "contemplative"
+    ],
+    "rating": 7.3,
+    "duration": 107,
+    "director": "Хлоя Чжао",
+    "cast": [
+      "Фрэнсис Макдорманд",
+      "Дэвид Стрэтэйрн",
+      "Линда Мэй",
+      "Шарлин Сванке"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/66GUmWpTHgAjyp4aBSXy63PZTiC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/5MlbMFLxGJLbN8zJxY5K5MlbMFL.jpg",
+    "language": "ru",
+    "tags": [
+      "оскар",
+      "путешествие",
+      "драма"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 581734,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_047",
+    "title": "Круэлла",
+    "original_title": "Cruella",
+    "year": 2021,
+    "description": "История происхождения одной из самых зловещих злодеек Disney. Молодая мошенница Эстелла стремится сделать себе имя в мире моды Лондона 1970-х годов.",
+    "genres": [
+      "comedy",
+      "crime",
+      "drama"
+    ],
+    "moods": [
+      "stylish",
+      "fun"
+    ],
+    "rating": 8,
+    "duration": 134,
+    "director": "Крейг Гиллеспи",
+    "cast": [
+      "Эмма Стоун",
+      "Эмма Томпсон",
+      "Джоел Фрай",
+      "Пол Уолтер Хаузер"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/rTh4K5uw9HypmpGslcKd4QfHl93.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/6MKr3KgOLmzOP6MSuZERO41Lpkt.jpg",
+    "language": "ru",
+    "tags": [
+      "disney",
+      "мода",
+      "злодей"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 337404,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_048",
+    "title": "Чёрная вдова",
+    "original_title": "Black Widow",
+    "year": 2021,
+    "description": "Наташа Романофф сталкивается с тёмным периодом своего прошлого, когда появляется опасный заговор, связанный с её временем в качестве шпионки. Она должна разобраться со своим прошлым, чтобы двигаться вперёд.",
+    "genres": [
+      "action",
+      "adventure",
+      "sci-fi"
+    ],
+    "moods": [
+      "exciting",
+      "intense"
+    ],
+    "rating": 7.2,
+    "duration": 134,
+    "director": "Кейт Шортланд",
+    "cast": [
+      "Скарлетт Йоханссон",
+      "Флоренс Пью",
+      "Дэвид Харбор",
+      "Рэйчел Вайс"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
+    "language": "ru",
+    "tags": [
+      "марвел",
+      "шпион",
+      "супергерои"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 497698,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_049",
+    "title": "Шан-Чи и легенда десяти колец",
+    "original_title": "Shang-Chi and the Legend of the Ten Rings",
+    "year": 2021,
+    "description": "Шан-Чи должен столкнуться со своим прошлым, когда его втягивают в сеть таинственной организации «Десять колец», которой руководит его отец.",
+    "genres": [
+      "action",
+      "adventure",
+      "fantasy"
+    ],
+    "moods": [
+      "exciting",
+      "adventurous"
+    ],
+    "rating": 7.6,
+    "duration": 132,
+    "director": "Дестин Дэниел Креттон",
+    "cast": [
+      "Симу Лю",
+      "Аквафина",
+      "Тони Люн",
+      "Мишель Йео"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/cinER0ESG0eJ49kXlExM0MEWGxW.jpg",
+    "language": "ru",
+    "tags": [
+      "марвел",
+      "боевые искусства",
+      "супергерои"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 566525,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_050",
+    "title": "Вечные",
+    "original_title": "Eternals",
+    "year": 2021,
+    "description": "Древняя раса бессмертных существ, живущих на Земле в тайне, вынуждена объединиться, чтобы остановить своих злых собратьев, Девиантов.",
+    "genres": [
+      "action",
+      "adventure",
+      "fantasy",
+      "sci-fi"
+    ],
+    "moods": [
+      "epic",
+      "mysterious"
+    ],
+    "rating": 6.4,
+    "duration": 156,
+    "director": "Хлоя Чжао",
+    "cast": [
+      "Джемма Чан",
+      "Ричард Мэдден",
+      "Анджелина Джоли",
+      "Сальма Хайек"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/6AdXwFTRTAzggD2QUTt5B7JFGKL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
+    "language": "ru",
+    "tags": [
+      "марвел",
+      "бессмертные",
+      "супергерои"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 524434,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_051",
+    "title": "Не смотрите наверх",
+    "original_title": "Don't Look Up",
+    "year": 2021,
+    "description": "Два астронома обнаруживают комету, которая движется к Земле и уничтожит всё живое. Они отправляются в турне по СМИ, чтобы предупредить человечество, но никто не хочет слушать.",
+    "genres": [
+      "comedy",
+      "drama",
+      "sci-fi"
+    ],
+    "moods": [
+      "satirical",
+      "dark"
+    ],
+    "rating": 7.2,
+    "duration": 138,
+    "director": "Адам Маккей",
+    "cast": [
+      "Леонардо ДиКаприо",
+      "Дженнифер Лоуренс",
+      "Мерил Стрип",
+      "Кейт Бланшетт"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/lDCIQWQe7cRnhZ4ybQnJj5x9X2e.jpg",
+    "language": "ru",
+    "tags": [
+      "сатира",
+      "комедия",
+      "катастрофа"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 646380,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_058",
+    "title": "Заклятие 3",
+    "original_title": "The Conjuring: The Devil Made Me Do It",
+    "year": 2021,
+    "description": "Эд и Лоррейн Уоррены расследуют дело об убийстве, где обвиняемый утверждает, что был одержим дьяволом. Это первое дело в США, где одержимость использовалась как защита.",
+    "genres": [
+      "horror",
+      "mystery",
+      "thriller"
+    ],
+    "moods": [
+      "scary",
+      "tense"
+    ],
+    "rating": 7.3,
+    "duration": 112,
+    "director": "Майкл Чавес",
+    "cast": [
+      "Патрик Уилсон",
+      "Вера Фармига",
+      "Руари Киран",
+      "Сара Кэтрин Хукер"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/qi6Edc1OPcyENecGtz8TF0DUr9e.jpg",
+    "language": "ru",
+    "tags": [
+      "ужасы",
+      "одержимость",
+      "уоррены"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 423108,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_060",
+    "title": "Тихое место: День первый",
+    "original_title": "A Quiet Place: Day One",
+    "year": 2024,
+    "description": "Приквел, рассказывающий о первых днях вторжения инопланетных существ на Землю. Группа выживших должна научиться жить в тишине, чтобы спастись.",
+    "genres": [
+      "horror",
+      "thriller",
+      "sci-fi"
+    ],
+    "moods": [
+      "tense",
+      "scary"
+    ],
+    "rating": 7,
+    "duration": 99,
+    "director": "Майкл Сарноски",
+    "cast": [
+      "Лупита Нионго",
+      "Джозеф Куинн",
+      "Алекс Вулф",
+      "Джимон Хонсу"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/hU42CRk14JuPEdqZG3AWmagiPAP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/2RVcJbWFmICRDsVxRI8F5xRmRsK.jpg",
+    "language": "ru",
+    "tags": [
+      "ужасы",
+      "приквел",
+      "выживание"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 762441,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_062",
+    "title": "Форсаж 9",
+    "original_title": "F9",
+    "year": 2021,
+    "description": "Дом и его команда сталкиваются с самым смертоносным противником, которого они когда-либо встречали: братом Дома, Джейкобом, который работает с кибертеррористом.",
+    "genres": [
+      "action",
+      "crime",
+      "thriller"
+    ],
+    "moods": [
+      "exciting",
+      "adventurous"
+    ],
+    "rating": 6.6,
+    "duration": 143,
+    "director": "Джастин Лин",
+    "cast": [
+      "Вин Дизель",
+      "Мишель Родригес",
+      "Джордана Брюстер",
+      "Тайрез Гибсон"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
+    "language": "ru",
+    "tags": [
+      "гонки",
+      "семья",
+      "боевик"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 385687,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_064",
+    "title": "Нет",
+    "original_title": "Nope",
+    "year": 2022,
+    "description": "Брат и сестра, владеющие ранчо в Калифорнии, становятся свидетелями необъяснимого явления в небе. Они решают запечатлеть это на камеру, но сталкиваются с опасностью.",
+    "genres": [
+      "horror",
+      "mystery",
+      "sci-fi"
+    ],
+    "moods": [
+      "mysterious",
+      "tense"
+    ],
+    "rating": 6.8,
+    "duration": 130,
+    "director": "Джордан Пил",
+    "cast": [
+      "Дэниел Калуя",
+      "Кеке Палмер",
+      "Стивен Ян",
+      "Брэндон Переа"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+    "language": "ru",
+    "tags": [
+      "ужасы",
+      "нло",
+      "пил"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 762504,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_065",
+    "title": "Меню",
+    "original_title": "The Menu",
+    "year": 2022,
+    "description": "Молодая пара отправляется на отдалённый остров, чтобы поужинать в эксклюзивном ресторане. Но шеф-повар приготовил для гостей шокирующее меню.",
+    "genres": [
+      "horror",
+      "comedy",
+      "thriller"
+    ],
+    "moods": [
+      "dark",
+      "satirical"
+    ],
+    "rating": 7.2,
+    "duration": 107,
+    "director": "Марк Майлод",
+    "cast": [
+      "Аня Тейлор-Джой",
+      "Рэйф Файнс",
+      "Николас Холт",
+      "Хонг Чау"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/v31MsWhF9WFh7Qooq6xSBbmJxoG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1oKA54eKl.jpg",
+    "language": "ru",
+    "tags": [
+      "ужасы",
+      "сатира",
+      "ресторан"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 718930,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_067",
+    "title": "Улыбка",
+    "original_title": "Smile",
+    "year": 2022,
+    "description": "После того как пациентка совершает самоубийство у неё на глазах, психиатр начинает испытывать всё более тревожные и необъяснимые события. Она должна раскрыть тайну, прежде чем станет слишком поздно.",
+    "genres": [
+      "horror",
+      "mystery",
+      "thriller"
+    ],
+    "moods": [
+      "scary",
+      "disturbing"
+    ],
+    "rating": 6.6,
+    "duration": 115,
+    "director": "Паркер Финн",
+    "cast": [
+      "Соси Бэйкон",
+      "Джесси Т. Ашер",
+      "Кайл Галлнер",
+      "Кейтлин Стэйси"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/8Ls1tZ6qjGzfZjPqWGtLXfJlXfJ.jpg",
+    "language": "ru",
+    "tags": [
+      "ужасы",
+      "проклятие",
+      "триллер"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 646385,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_069",
+    "title": "Сияние",
+    "original_title": "The Shining",
+    "year": 1980,
+    "description": "Писатель с семьёй переезжает в изолированный отель на зиму, чтобы работать над романом. Но отель имеет тёмную историю, и постепенно отец семейства начинает терять рассудок.",
+    "genres": [
+      "horror",
+      "thriller"
+    ],
+    "moods": [
+      "scary",
+      "psychological"
+    ],
+    "rating": 8.2,
+    "duration": 146,
+    "director": "Стэнли Кубрик",
+    "cast": [
+      "Джек Николсон",
+      "Шелли Дювалль",
+      "Дэнни Ллойд",
+      "Скетмен Кротерс"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/b6ko0IKC8MdYBBPkkA1aBPLe2yz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/3Tf8xVbNlXfJlXfJlXfJlXfJlXf.jpg",
+    "language": "ru",
+    "tags": [
+      "кубрик",
+      "классика",
+      "ужасы"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 694,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_070",
+    "title": "Чужой",
+    "original_title": "Alien",
+    "year": 1979,
+    "description": "Экипаж космического корабля сталкивается с смертоносным инопланетным существом, которое охотится на них одного за другим. Они должны найти способ выжить.",
+    "genres": [
+      "horror",
+      "sci-fi",
+      "thriller"
+    ],
+    "moods": [
+      "scary",
+      "tense"
+    ],
+    "rating": 8.5,
+    "duration": 117,
+    "director": "Ридли Скотт",
+    "cast": [
+      "Сигурни Уивер",
+      "Том Скерритт",
+      "Джон Хёрт",
+      "Вероника Картрайт"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/AmR3JG1VQVxU8TfAvljUhfSFUox.jpg",
+    "language": "ru",
+    "tags": [
+      "чужой",
+      "космос",
+      "классика"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 348,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_073",
+    "title": "Психо",
+    "original_title": "Psycho",
+    "year": 1960,
+    "description": "Секретарша, укравшая деньги у работодателя, останавливается в мотеле, управляемом застенчивым молодым человеком и его доминирующей матерью.",
+    "genres": [
+      "horror",
+      "thriller",
+      "mystery"
+    ],
+    "moods": [
+      "tense",
+      "psychological"
+    ],
+    "rating": 8.4,
+    "duration": 109,
+    "director": "Альфред Хичкок",
+    "cast": [
+      "Энтони Перкинс",
+      "Джанет Ли",
+      "Вера Майлз",
+      "Джон Гэвин"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/81d8oyEFgj7FlxJqSDXWr8JH8kV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/3Tf8xVbNlXfJlXfJlXfJlXfJlXf.jpg",
+    "language": "ru",
+    "tags": [
+      "хичкок",
+      "классика",
+      "триллер"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 539,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_083",
+    "title": "Звонок",
+    "original_title": "The Ring",
+    "year": 2002,
+    "description": "Журналистка расследует тайну видеокассеты, после просмотра которой звонит телефон и голос сообщает, что зритель умрёт через семь дней.",
+    "genres": [
+      "horror",
+      "mystery",
+      "thriller"
+    ],
+    "moods": [
+      "scary",
+      "mysterious"
+    ],
+    "rating": 7.1,
+    "duration": 115,
+    "director": "Гор Вербински",
+    "cast": [
+      "Наоми Уоттс",
+      "Мартин Хендерсон",
+      "Дэвид Дорфман",
+      "Брайан Кокс"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/5MlbMFLxGJLbN8zJxY5K5MlbMFL.jpg",
+    "language": "ru",
+    "tags": [
+      "ужасы",
+      "проклятие",
+      "римейк"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 11218,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_085",
+    "title": "Заклятие",
+    "original_title": "The Conjuring",
+    "year": 2013,
+    "description": "Исследователи паранормальных явлений Эд и Лоррейн Уоррены помогают семье, терроризируемой тёмным присутствием в их фермерском доме.",
+    "genres": [
+      "horror",
+      "mystery",
+      "thriller"
+    ],
+    "moods": [
+      "scary",
+      "tense"
+    ],
+    "rating": 7.5,
+    "duration": 112,
+    "director": "Джеймс Ван",
+    "cast": [
+      "Патрик Уилсон",
+      "Вера Фармига",
+      "Рон Ливингстон",
+      "Лили Тейлор"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+    "language": "ru",
+    "tags": [
+      "ужасы",
+      "уоррены",
+      "одержимость"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 138843,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_088",
+    "title": "Прочь",
+    "original_title": "Get Out",
+    "year": 2017,
+    "description": "Молодой афроамериканец знакомится с родителями своей белой девушки. Изначально он воспринимает их излишнюю любезность как нервозность из-за расовых различий, но вскоре понимает, что за этим скрывается нечто зловещее.",
+    "genres": [
+      "horror",
+      "thriller",
+      "mystery"
+    ],
+    "moods": [
+      "tense",
+      "thought-provoking"
+    ],
+    "rating": 7.7,
+    "duration": 104,
+    "director": "Джордан Пил",
+    "cast": [
+      "Дэниел Калуя",
+      "Эллисон Уильямс",
+      "Брэдли Уитфорд",
+      "Кэтрин Кинер"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rqAHkvAU268uZVdpRq6D0vRPaPB.jpg",
+    "language": "ru",
+    "tags": [
+      "ужасы",
+      "расизм",
+      "оскар"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 419430,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_089",
+    "title": "Тихое место",
+    "original_title": "A Quiet Place",
+    "year": 2018,
+    "description": "В мире, где слепые существа с невероятным слухом охотятся на людей, семья выживает в полной тишине. Любой звук может стать последним.",
+    "genres": [
+      "horror",
+      "thriller",
+      "drama"
+    ],
+    "moods": [
+      "tense",
+      "scary"
+    ],
+    "rating": 7.5,
+    "duration": 90,
+    "director": "Джон Красински",
+    "cast": [
+      "Эмили Блант",
+      "Джон Красински",
+      "Милиссент Симмондс",
+      "Ноа Джуп"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/roYyPiQDQKmIKUEhO912693tSja.jpg",
+    "language": "ru",
+    "tags": [
+      "ужасы",
+      "тишина",
+      "выживание"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 447332,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_091",
+    "title": "Солнце моё",
+    "original_title": "Midsommar",
+    "year": 2019,
+    "description": "Группа друзей отправляется в шведскую деревню на фестиваль середины лета. То, что начинается как беззаботное путешествие, превращается в кошмар, когда местные жители раскрывают свои зловещие ритуалы.",
+    "genres": [
+      "horror",
+      "drama",
+      "mystery"
+    ],
+    "moods": [
+      "disturbing",
+      "unsettling"
+    ],
+    "rating": 7.1,
+    "duration": 148,
+    "director": "Ари Астер",
+    "cast": [
+      "Флоренс Пью",
+      "Джек Рейнор",
+      "Вильгельм Бломгрен",
+      "Уилл Поултер"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1oKA54eKl.jpg",
+    "language": "ru",
+    "tags": [
+      "ужасы",
+      "фестиваль",
+      "швеция"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 530385,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_092",
+    "title": "Мы",
+    "original_title": "Us",
+    "year": 2019,
+    "description": "Семья сталкивается со своими зловещими двойниками во время отпуска. Эти люди выглядят как они, но их намерения смертельно опасны.",
+    "genres": [
+      "horror",
+      "thriller",
+      "mystery"
+    ],
+    "moods": [
+      "scary",
+      "tense"
+    ],
+    "rating": 6.8,
+    "duration": 116,
+    "director": "Джордан Пил",
+    "cast": [
+      "Лупита Нионго",
+      "Уинстон Дьюк",
+      "Элизабет Мосс",
+      "Тим Хайдекер"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/h3KN24PrOheHVYs9ypuOIdFQBPX.jpg",
+    "language": "ru",
+    "tags": [
+      "ужасы",
+      "двойники",
+      "пил"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 450465,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_095",
+    "title": "Оно 2",
+    "original_title": "It Chapter Two",
+    "year": 2019,
+    "description": "Спустя 27 лет после первой встречи с Пеннивайзом, взрослые члены Клуба Неудачников возвращаются в родной город, чтобы выполнить обещание и уничтожить зло раз и навсегда.",
+    "genres": [
+      "horror",
+      "fantasy",
+      "thriller"
+    ],
+    "moods": [
+      "scary",
+      "dark"
+    ],
+    "rating": 6.5,
+    "duration": 169,
+    "director": "Андрес Мускетти",
+    "cast": [
+      "Джессика Честейн",
+      "Джеймс Макэвой",
+      "Билл Хейдер",
+      "Исайя Мустафа"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/zfE0R94v1E8cuKAerbskfD3VfUt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/sYf7c5vrZD5YD5YD5YD5YD5YD.jpg",
+    "language": "ru",
+    "tags": [
+      "ужасы",
+      "клоун",
+      "сиквел"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 474350,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_097",
+    "title": "Заклятие 2",
+    "original_title": "The Conjuring 2",
+    "year": 2016,
+    "description": "Эд и Лоррейн Уоррены отправляются в Лондон, чтобы помочь семье, терроризируемой полтергейстом в их доме. Они сталкиваются с одним из самых опасных случаев в своей карьере.",
+    "genres": [
+      "horror",
+      "mystery",
+      "thriller"
+    ],
+    "moods": [
+      "scary",
+      "tense"
+    ],
+    "rating": 7.3,
+    "duration": 134,
+    "director": "Джеймс Ван",
+    "cast": [
+      "Вера Фармига",
+      "Патрик Уилсон",
+      "Мэдисон Вулф",
+      "Фрэнсис О'Коннор"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/Adrip2Jqzw56KeuV2nAxucKMNXA.jpg",
+    "language": "ru",
+    "tags": [
+      "ужасы",
+      "уоррены",
+      "сиквел"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 298312,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_102",
+    "title": "Криминальное чтиво",
+    "original_title": "Pulp Fiction",
+    "year": 1994,
+    "description": "Несколько взаимосвязанных историй о криминальном мире Лос-Анджелеса: боксёр, гангстеры, жена гангстера и пара мелких преступников.",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "moods": [
+      "stylish",
+      "dark"
+    ],
+    "rating": 8.9,
+    "duration": 154,
+    "director": "Квентин Тарантино",
+    "cast": [
+      "Джон Траволта",
+      "Сэмюэл Л. Джексон",
+      "Ума Турман",
+      "Брюс Уиллис"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+    "language": "ru",
+    "tags": [
+      "тарантино",
+      "классика",
+      "криминал"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 680,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_103",
+    "title": "Побег из Шоушенка",
+    "original_title": "The Shawshank Redemption",
+    "year": 1994,
+    "description": "Банкир Энди Дюфрейн осуждён за убийство жены и её любовника. В тюрьме Шоушенк он находит друзей и надежду на свободу.",
+    "genres": [
+      "drama",
+      "crime"
+    ],
+    "moods": [
+      "inspiring",
+      "emotional"
+    ],
+    "rating": 9.3,
+    "duration": 142,
+    "director": "Фрэнк Дарабонт",
+    "cast": [
+      "Тим Роббинс",
+      "Морган Фримен",
+      "Боб Гантон",
+      "Уильям Сэдлер"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+    "language": "ru",
+    "tags": [
+      "классика",
+      "тюрьма",
+      "драма"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 278,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_104",
+    "title": "Форрест Гамп",
+    "original_title": "Forrest Gump",
+    "year": 1994,
+    "description": "История простодушного человека с добрым сердцем, который становится свидетелем и участником важнейших событий американской истории XX века.",
+    "genres": [
+      "drama",
+      "romance",
+      "comedy"
+    ],
+    "moods": [
+      "heartwarming",
+      "inspiring"
+    ],
+    "rating": 8.8,
+    "duration": 142,
+    "director": "Роберт Земекис",
+    "cast": [
+      "Том Хэнкс",
+      "Робин Райт",
+      "Гэри Синиз",
+      "Салли Филд"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/7c9UVPPiTPltouxRVY6N9uUaHNL.jpg",
+    "language": "ru",
+    "tags": [
+      "классика",
+      "оскар",
+      "драма"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 13,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_105",
+    "title": "Матрица",
+    "original_title": "The Matrix",
+    "year": 1999,
+    "description": "Хакер Нео узнаёт, что его реальность — это симуляция, созданная машинами. Он присоединяется к восстанию, чтобы освободить человечество.",
+    "genres": [
+      "action",
+      "sci-fi"
+    ],
+    "moods": [
+      "mind-bending",
+      "exciting"
+    ],
+    "rating": 8.7,
+    "duration": 136,
+    "director": "Лана Вачовски, Лилли Вачовски",
+    "cast": [
+      "Киану Ривз",
+      "Лоренс Фишберн",
+      "Кэрри-Энн Мосс",
+      "Хьюго Уивинг"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/fNG7i7RqMErkcqhohV2a6cV1Ehy.jpg",
+    "language": "ru",
+    "tags": [
+      "матрица",
+      "классика",
+      "фантастика"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 603,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_107",
+    "title": "Начало",
+    "original_title": "Inception",
+    "year": 2010,
+    "description": "Профессиональный вор, который крадёт секреты через сны, получает шанс на искупление: внедрить идею в сознание цели.",
+    "genres": [
+      "action",
+      "sci-fi",
+      "thriller"
+    ],
+    "moods": [
+      "mind-bending",
+      "intense"
+    ],
+    "rating": 8.8,
+    "duration": 148,
+    "director": "Кристофер Нолан",
+    "cast": [
+      "Леонардо ДиКаприо",
+      "Джозеф Гордон-Левитт",
+      "Эллиот Пейдж",
+      "Том Харди"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/s3TBrRGB1jav7y4argnzPkNPZPZ.jpg",
+    "language": "ru",
+    "tags": [
+      "сны",
+      "нолан",
+      "триллер"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 27205,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_108",
+    "title": "Тёмный рыцарь",
+    "original_title": "The Dark Knight",
+    "year": 2008,
+    "description": "Бэтмен сталкивается с Джокером, хаотичным преступником, который стремится погрузить Готэм в анархию.",
+    "genres": [
+      "action",
+      "crime",
+      "drama"
+    ],
+    "moods": [
+      "dark",
+      "intense"
+    ],
+    "rating": 9,
+    "duration": 152,
+    "director": "Кристофер Нолан",
+    "cast": [
+      "Кристиан Бэйл",
+      "Хит Леджер",
+      "Аарон Экхарт",
+      "Майкл Кейн"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hkBaDkMWbLaf8B1lsWsKX7Znj37.jpg",
+    "language": "ru",
+    "tags": [
+      "бэтмен",
+      "dc",
+      "нолан"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 155,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_109",
+    "title": "Властелин колец: Возвращение короля",
+    "original_title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "description": "Фродо и Сэм приближаются к Роковой горе, чтобы уничтожить Кольцо, в то время как Арагорн ведёт армию против Саурона.",
+    "genres": [
+      "adventure",
+      "fantasy",
+      "action"
+    ],
+    "moods": [
+      "epic",
+      "emotional"
+    ],
+    "rating": 9,
+    "duration": 201,
+    "director": "Питер Джексон",
+    "cast": [
+      "Элайджа Вуд",
+      "Иэн Маккеллен",
+      "Вигго Мортенсен",
+      "Шон Астин"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+    "language": "ru",
+    "tags": [
+      "фэнтези",
+      "эпос",
+      "оскар"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 122,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_110",
+    "title": "Властелин колец: Братство Кольца",
+    "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "description": "Хоббит Фродо Бэггинс получает Кольцо Всевластия и должен отправиться в опасное путешествие, чтобы уничтожить его.",
+    "genres": [
+      "adventure",
+      "fantasy",
+      "action"
+    ],
+    "moods": [
+      "epic",
+      "adventurous"
+    ],
+    "rating": 8.8,
+    "duration": 178,
+    "director": "Питер Джексон",
+    "cast": [
+      "Элайджа Вуд",
+      "Иэн Маккеллен",
+      "Орландо Блум",
+      "Шон Бин"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+    "language": "ru",
+    "tags": [
+      "фэнтези",
+      "эпос",
+      "кольцо"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 120,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_111",
+    "title": "Властелин колец: Две крепости",
+    "original_title": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "description": "Братство распалось, но борьба с Сауроном продолжается. Фродо и Сэм идут к Роковой горе, а Арагорн защищает Рохан.",
+    "genres": [
+      "adventure",
+      "fantasy",
+      "action"
+    ],
+    "moods": [
+      "epic",
+      "intense"
+    ],
+    "rating": 8.8,
+    "duration": 179,
+    "director": "Питер Джексон",
+    "cast": [
+      "Элайджа Вуд",
+      "Иэн Маккеллен",
+      "Вигго Мортенсен",
+      "Шон Астин"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/8BPZO0Bf8TeAy8znF43z8soK3ys.jpg",
+    "language": "ru",
+    "tags": [
+      "фэнтези",
+      "эпос",
+      "трилогия"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 121,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_112",
+    "title": "Гарри Поттер и философский камень",
+    "original_title": "Harry Potter and the Philosopher's Stone",
+    "year": 2001,
+    "description": "Мальчик-сирота узнаёт, что он волшебник, и отправляется в школу чародейства Хогвартс, где его ждут приключения и тайны.",
+    "genres": [
+      "adventure",
+      "fantasy",
+      "family"
+    ],
+    "moods": [
+      "magical",
+      "wonderful"
+    ],
+    "rating": 7.9,
+    "duration": 152,
+    "director": "Крис Коламбус",
+    "cast": [
+      "Дэниел Рэдклифф",
+      "Руперт Гринт",
+      "Эмма Уотсон",
+      "Ричард Харрис"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
+    "language": "ru",
+    "tags": [
+      "гарри поттер",
+      "магия",
+      "семейный"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 671,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_114",
+    "title": "Звёздные войны: Эпизод 4 — Новая надежда",
+    "original_title": "Star Wars: Episode IV - A New Hope",
+    "year": 1977,
+    "description": "Молодой фермер Люк Скайуокер присоединяется к повстанцам, чтобы спасти принцессу Лею и уничтожить Звезду Смерти.",
+    "genres": [
+      "action",
+      "adventure",
+      "sci-fi"
+    ],
+    "moods": [
+      "epic",
+      "adventurous"
+    ],
+    "rating": 8.6,
+    "duration": 121,
+    "director": "Джордж Лукас",
+    "cast": [
+      "Марк Хэмилл",
+      "Харрисон Форд",
+      "Кэрри Фишер",
+      "Алек Гиннесс"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/4iJfYYoQzZcONB9hNzg0J0wWyPH.jpg",
+    "language": "ru",
+    "tags": [
+      "звёздные войны",
+      "классика",
+      "космос"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 11,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_117",
+    "title": "Крёстный отец",
+    "original_title": "The Godfather",
+    "year": 1972,
+    "description": "Старейший сын мафиозного дона отказывается от семейного бизнеса, но младший сын вынужден вступить в криминальный мир.",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "moods": [
+      "dark",
+      "epic"
+    ],
+    "rating": 9.2,
+    "duration": 175,
+    "director": "Фрэнсис Форд Коппола",
+    "cast": [
+      "Марлон Брандо",
+      "Аль Пачино",
+      "Джеймс Каан",
+      "Роберт Дюваль"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+    "language": "ru",
+    "tags": [
+      "мафия",
+      "классика",
+      "оскар"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 238,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_118",
+    "title": "Крёстный отец 2",
+    "original_title": "The Godfather Part II",
+    "year": 1974,
+    "description": "Продолжение истории семьи Корлеоне: Майкл укрепляет власть, а параллельно показывается история его отца Вито.",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "moods": [
+      "dark",
+      "epic"
+    ],
+    "rating": 9,
+    "duration": 202,
+    "director": "Фрэнсис Форд Коппола",
+    "cast": [
+      "Аль Пачино",
+      "Роберт Де Ниро",
+      "Роберт Дюваль",
+      "Дайан Китон"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+    "language": "ru",
+    "tags": [
+      "мафия",
+      "сиквел",
+      "классика"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 240,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_120",
+    "title": "Бойцовский клуб",
+    "original_title": "Fight Club",
+    "year": 1999,
+    "description": "Офисный работник создаёт подпольный бойцовский клуб, который превращается в нечто гораздо более опасное.",
+    "genres": [
+      "drama",
+      "thriller"
+    ],
+    "moods": [
+      "dark",
+      "mind-bending"
+    ],
+    "rating": 8.8,
+    "duration": 139,
+    "director": "Дэвид Финчер",
+    "cast": [
+      "Брэд Питт",
+      "Эдвард Нортон",
+      "Хелена Бонем Картер",
+      "Мит Лоуф"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "language": "ru",
+    "tags": [
+      "финчер",
+      "классика",
+      "триллер"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 550,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_121",
+    "title": "Форрест Гамп",
+    "original_title": "Forrest Gump",
+    "year": 1994,
+    "description": "История простодушного человека с добрым сердцем, который становится свидетелем важнейших событий американской истории.",
+    "genres": [
+      "drama",
+      "romance",
+      "comedy"
+    ],
+    "moods": [
+      "heartwarming",
+      "inspiring"
+    ],
+    "rating": 8.8,
+    "duration": 142,
+    "director": "Роберт Земекис",
+    "cast": [
+      "Том Хэнкс",
+      "Робин Райт",
+      "Гэри Синиз",
+      "Салли Филд"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/7c9UVPPiTPltouxRVY6N9uUaHNL.jpg",
+    "language": "ru",
+    "tags": [
+      "классика",
+      "оскар",
+      "драма"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 13,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_122",
+    "title": "Хороший, плохой, злой",
+    "original_title": "The Good, the Bad and the Ugly",
+    "year": 1966,
+    "description": "Три охотника за золотом соревнуются в поисках конфедератского золота во время Гражданской войны в США.",
+    "genres": [
+      "western",
+      "adventure"
+    ],
+    "moods": [
+      "epic",
+      "tense"
+    ],
+    "rating": 8.8,
+    "duration": 178,
+    "director": "Серджио Леоне",
+    "cast": [
+      "Клинт Иствуд",
+      "Илай Уоллак",
+      "Ли Ван Клиф",
+      "Альдо Джуффри"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/Adrip2Jqzw56KeuV2nAxucKMNXA.jpg",
+    "language": "ru",
+    "tags": [
+      "вестерн",
+      "классика",
+      "леоне"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 429,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_124",
+    "title": "Мой сосед Тоторо",
+    "original_title": "My Neighbor Totoro",
+    "year": 1988,
+    "description": "Две сестры переезжают в деревню и встречают дружелюбных лесных духов, включая огромного Тоторо.",
+    "genres": [
+      "animation",
+      "family",
+      "fantasy"
+    ],
+    "moods": [
+      "heartwarming",
+      "magical"
+    ],
+    "rating": 8.2,
+    "duration": 86,
+    "director": "Хаяо Миядзаки",
+    "cast": [
+      "Норико Хидака",
+      "Титоса Сакамото",
+      "Сигеки Сакамото"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/etqr6fOOCXQOgwrQXaKwenTSuzx.jpg",
+    "language": "ru",
+    "tags": [
+      "аниме",
+      "джибли",
+      "семейный"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 8392,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_125",
+    "title": "Принцесса Мононоке",
+    "original_title": "Princess Mononoke",
+    "year": 1997,
+    "description": "Принц, заражённый демоном, отправляется в путешествие и оказывается в центре борьбы между лесными духами и людьми.",
+    "genres": [
+      "animation",
+      "adventure",
+      "fantasy"
+    ],
+    "moods": [
+      "epic",
+      "dark"
+    ],
+    "rating": 8.4,
+    "duration": 134,
+    "director": "Хаяо Миядзаки",
+    "cast": [
+      "Ёдзи Мацуда",
+      "Юрико Исида",
+      "Юко Танака",
+      "Каору Кобаяси"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/jHWmNr7m544fJ8eItsfNk8fs2Ed.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/6pTqSq0zYIWCsucJys8q5L92kUY.jpg",
+    "language": "ru",
+    "tags": [
+      "аниме",
+      "миядзаки",
+      "эпос"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 128,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_126",
+    "title": "Титаник",
+    "original_title": "Titanic",
+    "year": 1997,
+    "description": "История любви между аристократкой и бедным художником на борту легендарного лайнера Титаник.",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "moods": [
+      "romantic",
+      "emotional"
+    ],
+    "rating": 7.9,
+    "duration": 194,
+    "director": "Джеймс Кэмерон",
+    "cast": [
+      "Леонардо ДиКаприо",
+      "Кейт Уинслет",
+      "Билли Зейн",
+      "Кэти Бейтс"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/fVQy4lXgqYdG0k8nKqXqXqXqXqX.jpg",
+    "language": "ru",
+    "tags": [
+      "романтика",
+      "катастрофа",
+      "оскар"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 597,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_127",
+    "title": "Спасти рядового Райана",
+    "original_title": "Saving Private Ryan",
+    "year": 1998,
+    "description": "Отряд солдат отправляется на опасную миссию во время Второй мировой войны, чтобы найти и вернуть домой последнего выжившего брата.",
+    "genres": [
+      "war",
+      "drama",
+      "action"
+    ],
+    "moods": [
+      "intense",
+      "emotional"
+    ],
+    "rating": 8.6,
+    "duration": 169,
+    "director": "Стивен Спилберг",
+    "cast": [
+      "Том Хэнкс",
+      "Мэтт Дэймон",
+      "Том Сайзмор",
+      "Эдвард Бёрнс"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "language": "ru",
+    "tags": [
+      "война",
+      "спилберг",
+      "вторая мировая"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 857,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_128",
+    "title": "Зелёная миля",
+    "original_title": "The Green Mile",
+    "year": 1999,
+    "description": "Тюремный охранник становится свидетелем чудесных событий, связанных с новым заключённым, обладающим сверхъестественными способностями.",
+    "genres": [
+      "drama",
+      "fantasy",
+      "crime"
+    ],
+    "moods": [
+      "emotional",
+      "powerful"
+    ],
+    "rating": 8.6,
+    "duration": 189,
+    "director": "Фрэнк Дарабонт",
+    "cast": [
+      "Том Хэнкс",
+      "Майкл Кларк Дункан",
+      "Дэвид Морс",
+      "Бонни Хант"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/velWPhVMQeQKcxggNEU8YmIo52R.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/l6hQWH9eDksNJNiXWYRkWqikOdu.jpg",
+    "language": "ru",
+    "tags": [
+      "драма",
+      "тюрьма",
+      "мистика"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 497,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_129",
+    "title": "Молчание ягнят",
+    "original_title": "The Silence of the Lambs",
+    "year": 1991,
+    "description": "Молодой агент ФБР обращается к заключённому каннибалу за помощью в поимке другого серийного убийцы.",
+    "genres": [
+      "crime",
+      "drama",
+      "thriller"
+    ],
+    "moods": [
+      "tense",
+      "dark"
+    ],
+    "rating": 8.6,
+    "duration": 118,
+    "director": "Джонатан Демме",
+    "cast": [
+      "Джоди Фостер",
+      "Энтони Хопкинс",
+      "Скотт Гленн",
+      "Тед Левин"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/rplLJ2hPcOQmkFhTqUte0MkEaO2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/680klE0dIreQQOyWKFgNnCAJvWZ.jpg",
+    "language": "ru",
+    "tags": [
+      "триллер",
+      "оскар",
+      "классика"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 274,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_130",
+    "title": "Семь",
+    "original_title": "Se7en",
+    "year": 1995,
+    "description": "Два детектива охотятся на серийного убийцу, который использует семь смертных грехов как мотив для своих преступлений.",
+    "genres": [
+      "crime",
+      "mystery",
+      "thriller"
+    ],
+    "moods": [
+      "dark",
+      "tense"
+    ],
+    "rating": 8.6,
+    "duration": 127,
+    "director": "Дэвид Финчер",
+    "cast": [
+      "Морган Фримен",
+      "Брэд Питт",
+      "Гвинет Пэлтроу",
+      "Кевин Спейси"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/6yoghtyTpznpBik8EngEmJskVUO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/87hTDiay2N2qWyX4Ds7ybXi9h8I.jpg",
+    "language": "ru",
+    "tags": [
+      "триллер",
+      "финчер",
+      "детектив"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 807,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_131",
+    "title": "Гладиатор",
+    "original_title": "Gladiator",
+    "year": 2000,
+    "description": "Римский генерал становится рабом-гладиатором и борется за месть императору, убившему его семью.",
+    "genres": [
+      "action",
+      "drama",
+      "adventure"
+    ],
+    "moods": [
+      "epic",
+      "intense"
+    ],
+    "rating": 8.5,
+    "duration": 155,
+    "director": "Ридли Скотт",
+    "cast": [
+      "Рассел Кроу",
+      "Хоакин Феникс",
+      "Конни Нильсен",
+      "Оливер Рид"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
+    "language": "ru",
+    "tags": [
+      "рим",
+      "эпос",
+      "оскар"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 98,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_132",
+    "title": "Отступники",
+    "original_title": "The Departed",
+    "year": 2006,
+    "description": "Полицейский внедряется в мафию, а мафиозный крот работает в полиции. Оба должны раскрыть друг друга.",
+    "genres": [
+      "crime",
+      "drama",
+      "thriller"
+    ],
+    "moods": [
+      "tense",
+      "dark"
+    ],
+    "rating": 8.5,
+    "duration": 151,
+    "director": "Мартин Скорсезе",
+    "cast": [
+      "Леонардо ДиКаприо",
+      "Мэтт Дэймон",
+      "Джек Николсон",
+      "Марк Уолберг"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/8Od5zV7Q2eMMfGqiRbCQaWkXxwJ.jpg",
+    "language": "ru",
+    "tags": [
+      "мафия",
+      "скорсезе",
+      "оскар"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 1422,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_133",
+    "title": "Престиж",
+    "original_title": "The Prestige",
+    "year": 2006,
+    "description": "Два иллюзиониста ведут ожесточённое соперничество, которое приводит к трагическим последствиям.",
+    "genres": [
+      "drama",
+      "mystery",
+      "thriller"
+    ],
+    "moods": [
+      "mysterious",
+      "dark"
+    ],
+    "rating": 8.5,
+    "duration": 130,
+    "director": "Кристофер Нолан",
+    "cast": [
+      "Кристиан Бэйл",
+      "Хью Джекман",
+      "Скарлетт Йоханссон",
+      "Майкл Кейн"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/tRNlZbgNCNOpLpbPEz5L8G8A0JN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/1P3ZyEq02wcTMd3iE4ebtLvncvH.jpg",
+    "language": "ru",
+    "tags": [
+      "нолан",
+      "иллюзионисты",
+      "триллер"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 1124,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_135",
+    "title": "Реквием по мечте",
+    "original_title": "Requiem for a Dream",
+    "year": 2000,
+    "description": "Четыре человека борются с зависимостями, которые разрушают их жизни и мечты.",
+    "genres": [
+      "drama"
+    ],
+    "moods": [
+      "dark",
+      "disturbing"
+    ],
+    "rating": 8.3,
+    "duration": 102,
+    "director": "Даррен Аронофски",
+    "cast": [
+      "Эллен Бёрстин",
+      "Джаред Лето",
+      "Дженнифер Коннелли",
+      "Марлон Уэйанс"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/680klE0dIreQQOyWKFgNnCAJvWZ.jpg",
+    "language": "ru",
+    "tags": [
+      "зависимость",
+      "драма",
+      "тяжёлый"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 641,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_138",
+    "title": "Жизнь прекрасна",
+    "original_title": "Life Is Beautiful",
+    "year": 1997,
+    "description": "Отец использует воображение, чтобы защитить сына от ужасов концлагеря во время Холокоста.",
+    "genres": [
+      "comedy",
+      "drama",
+      "war"
+    ],
+    "moods": [
+      "heartwarming",
+      "emotional"
+    ],
+    "rating": 8.6,
+    "duration": 116,
+    "director": "Роберто Бениньи",
+    "cast": [
+      "Роберто Бениньи",
+      "Николетта Браски",
+      "Джорджо Кантарини",
+      "Джусто Дурано"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/74hLDKjD5aGYOotO6esUVaeISa2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/680klE0dIreQQOyWKFgNnCAJvWZ.jpg",
+    "language": "ru",
+    "tags": [
+      "холокост",
+      "семья",
+      "оскар"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 637,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_142",
+    "title": "Крепкий орешек",
+    "original_title": "Die Hard",
+    "year": 1988,
+    "description": "Полицейский из Нью-Йорка оказывается один против террористов, захвативших небоскрёб в Лос-Анджелесе.",
+    "genres": [
+      "action",
+      "thriller"
+    ],
+    "moods": [
+      "exciting",
+      "tense"
+    ],
+    "rating": 8.2,
+    "duration": 132,
+    "director": "Джон Мактирнан",
+    "cast": [
+      "Брюс Уиллис",
+      "Алан Рикман",
+      "Бонни Беделиа",
+      "Реджинальд Велджонсон"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/680klE0dIreQQOyWKFgNnCAJvWZ.jpg",
+    "language": "ru",
+    "tags": [
+      "боевик",
+      "классика",
+      "террористы"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 562,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_144",
+    "title": "Бегущий по лезвию",
+    "original_title": "Blade Runner",
+    "year": 1982,
+    "description": "В будущем Лос-Анджелесе охотник на репликантов должен найти и уничтожить четырёх сбежавших андроидов.",
+    "genres": [
+      "sci-fi",
+      "thriller",
+      "drama"
+    ],
+    "moods": [
+      "dark",
+      "thought-provoking"
+    ],
+    "rating": 8.1,
+    "duration": 117,
+    "director": "Ридли Скотт",
+    "cast": [
+      "Харрисон Форд",
+      "Рутгер Хауэр",
+      "Шон Янг",
+      "Эдвард Джеймс Олмос"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/eIi3klFf7mp3oL5EEF4mLIDs26r.jpg",
+    "language": "ru",
+    "tags": [
+      "фантастика",
+      "классика",
+      "киберпанк"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 78,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_145",
+    "title": "Бегущий по лезвию 2049",
+    "original_title": "Blade Runner 2049",
+    "year": 2017,
+    "description": "Новый охотник на репликантов обнаруживает секрет, который может погрузить общество в хаос.",
+    "genres": [
+      "sci-fi",
+      "thriller",
+      "drama"
+    ],
+    "moods": [
+      "dark",
+      "thought-provoking"
+    ],
+    "rating": 8,
+    "duration": 164,
+    "director": "Дени Вильнёв",
+    "cast": [
+      "Райан Гослинг",
+      "Харрисон Форд",
+      "Ана де Армас",
+      "Сильвия Хукс"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/ilRyazdMJwN05exqhwK4tMKBYZs.jpg",
+    "language": "ru",
+    "tags": [
+      "фантастика",
+      "сиквел",
+      "киберпанк"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 335984,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_146",
+    "title": "Апокалипсис сегодня",
+    "original_title": "Apocalypse Now",
+    "year": 1979,
+    "description": "Во время войны во Вьетнаме капитан отправляется в джунгли Камбоджи, чтобы убить сошедшего с ума полковника.",
+    "genres": [
+      "war",
+      "drama"
+    ],
+    "moods": [
+      "dark",
+      "intense"
+    ],
+    "rating": 8.4,
+    "duration": 147,
+    "director": "Фрэнсис Форд Коппола",
+    "cast": [
+      "Мартин Шин",
+      "Марлон Брандо",
+      "Роберт Дюваль",
+      "Деннис Хоппер"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/680klE0dIreQQOyWKFgNnCAJvWZ.jpg",
+    "language": "ru",
+    "tags": [
+      "война",
+      "вьетнам",
+      "классика"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 28,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_148",
+    "title": "Спасти рядового Райана",
+    "original_title": "Saving Private Ryan",
+    "year": 1998,
+    "description": "Отряд солдат отправляется на опасную миссию во время Второй мировой войны, чтобы найти последнего выжившего брата.",
+    "genres": [
+      "war",
+      "drama",
+      "action"
+    ],
+    "moods": [
+      "intense",
+      "emotional"
+    ],
+    "rating": 8.6,
+    "duration": 169,
+    "director": "Стивен Спилберг",
+    "cast": [
+      "Том Хэнкс",
+      "Мэтт Дэймон",
+      "Том Сайзмор",
+      "Эдвард Бёрнс"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "language": "ru",
+    "tags": [
+      "война",
+      "спилберг",
+      "вторая мировая"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 857,
+    "created_at": "2025-02-01T12:00:00Z"
+  },
+  {
+    "id": "movie_149",
+    "title": "12 разгневанных мужчин",
+    "original_title": "12 Angry Men",
+    "year": 1957,
+    "description": "Двенадцать присяжных должны решить судьбу подростка, обвиняемого в убийстве отца.",
+    "genres": [
+      "drama",
+      "crime"
+    ],
+    "moods": [
+      "tense",
+      "thought-provoking"
+    ],
+    "rating": 8.9,
+    "duration": 96,
+    "director": "Сидни Люмет",
+    "cast": [
+      "Генри Фонда",
+      "Ли Дж. Кобб",
+      "Мартин Болсам",
+      "Джон Фидлер"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+    "language": "ru",
+    "tags": [
+      "суд",
+      "классика",
+      "драма"
+    ],
+    "watch_status": "unwatched",
+    "is_favorite": false,
+    "tmdb_id": 389,
+    "created_at": "2025-02-01T12:00:00Z"
+  }
+]
