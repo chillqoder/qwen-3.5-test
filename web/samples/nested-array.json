@@ -1,0 +1,26 @@
+{
+  "status": "success",
+  "data": {
+    "items": [
+      {
+        "id": "nested-1",
+        "name": "Nested Item 1",
+        "image": "https://picsum.photos/id/200/400/300.jpg"
+      },
+      {
+        "id": "nested-2",
+        "name": "Nested Item 2",
+        "image": "https://picsum.photos/id/201/400/300.jpg"
+      },
+      {
+        "id": "nested-3",
+        "name": "Nested Item 3",
+        "image": "https://picsum.photos/id/202/400/300.jpg"
+      }
+    ],
+    "metadata": {
+      "total": 3,
+      "page": 1
+    }
+  }
+}

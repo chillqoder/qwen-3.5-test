@@ -1,0 +1,79 @@
+[
+  {
+    "id": "item-1",
+    "title": "Product with valid images",
+    "description": "This item has multiple valid image URLs",
+    "imageUrl": "https://picsum.photos/id/1/400/300.jpg",
+    "thumbnail": "https://picsum.photos/id/2/200/200.jpg",
+    "gallery": [
+      "https://picsum.photos/id/3/400/300.jpg",
+      "https://picsum.photos/id/4/400/300.jpg"
+    ]
+  },
+  {
+    "id": "item-2",
+    "title": "Product with broken images",
+    "description": "This item has only broken image URLs",
+    "imageUrl": "https://example.com/broken-image-1.jpg",
+    "thumbnail": "https://example.com/broken-image-2.png"
+  },
+  {
+    "id": "item-3",
+    "title": "Product with mixed images",
+    "description": "This item has both valid and broken images",
+    "imageUrl": "https://picsum.photos/id/5/400/300.jpg",
+    "brokenImage": "https://example.com/does-not-exist.jpg"
+  },
+  {
+    "id": "item-4",
+    "name": "No Images Product",
+    "description": "This item has no image URLs at all",
+    "price": 99.99,
+    "category": "electronics"
+  },
+  {
+    "id": "item-5",
+    "title": "CDN Image without extension",
+    "description": "Image URL without file extension but still valid",
+    "imageUrl": "https://picsum.photos/id/6/400/300",
+    "cdnImage": "https://picsum.photos/id/7/400/300"
+  },
+  {
+    "id": "item-6",
+    "title": "Duplicate URLs",
+    "description": "This item has duplicate image URLs to test caching",
+    "image1": "https://picsum.photos/id/8/400/300.jpg",
+    "image2": "https://picsum.photos/id/8/400/300.jpg",
+    "image3": "https://picsum.photos/id/8/400/300.jpg"
+  },
+  {
+    "id": "item-7",
+    "title": "Nested Object with Images",
+    "description": "Images in deeply nested structure",
+    "metadata": {
+      "images": {
+        "primary": "https://picsum.photos/id/9/400/300.jpg",
+        "secondary": "https://picsum.photos/id/10/400/300.jpg"
+      }
+    }
+  },
+  {
+    "id": "item-8",
+    "title": "WebP and AVIF formats",
+    "description": "Modern image formats",
+    "webpImage": "https://picsum.photos/id/11/400/300.webp",
+    "avifImage": "https://picsum.photos/id/12/400/300.avif"
+  },
+  {
+    "id": "item-9",
+    "title": "GIF Animation",
+    "description": "Animated GIF image",
+    "gifUrl": "https://picsum.photos/id/13/400/300.gif"
+  },
+  {
+    "id": "item-10",
+    "title": "PNG with transparency",
+    "description": "PNG image format",
+    "pngUrl": "https://picsum.photos/id/14/400/300.png"
+  }
+]

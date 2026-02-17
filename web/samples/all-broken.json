@@ -1,0 +1,27 @@
+[
+  {
+    "id": "broken-1",
+    "title": "Broken Image 1",
+    "url": "https://example.com/nonexistent-1.jpg"
+  },
+  {
+    "id": "broken-2",
+    "title": "Broken Image 2",
+    "url": "https://example.com/nonexistent-2.png"
+  },
+  {
+    "id": "broken-3",
+    "title": "Broken Image 3",
+    "url": "https://invalid-domain-xyz.com/image.jpg"
+  },
+  {
+    "id": "broken-4",
+    "title": "Broken Image 4",
+    "url": "https://example.com/404-image.jpg"
+  },
+  {
+    "id": "broken-5",
+    "title": "No Images Item",
+    "description": "This item has no image URLs"
+  }
+]

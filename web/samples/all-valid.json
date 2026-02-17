@@ -1,0 +1,27 @@
+[
+  {
+    "id": "valid-1",
+    "title": "Valid Image 1",
+    "url": "https://picsum.photos/id/100/400/300.jpg"
+  },
+  {
+    "id": "valid-2",
+    "title": "Valid Image 2",
+    "url": "https://picsum.photos/id/101/400/300.jpg"
+  },
+  {
+    "id": "valid-3",
+    "title": "Valid Image 3",
+    "url": "https://picsum.photos/id/102/400/300.jpg"
+  },
+  {
+    "id": "valid-4",
+    "title": "Valid Image 4",
+    "url": "https://picsum.photos/id/103/400/300.jpg"
+  },
+  {
+    "id": "valid-5",
+    "title": "Valid Image 5",
+    "url": "https://picsum.photos/id/104/400/300.jpg"
+  }
+]
